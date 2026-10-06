@@ -1,0 +1,9 @@
+streamlit
+streamlit-folium
+folium
+networkx
+pillow
+requests
+serpapi
+plotly
+python-dotenv

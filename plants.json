@@ -1,0 +1,20 @@
+{
+  "ocimum":        {"common": ["tulsi", "basil", "holy basil"], "value": 3, "bloom": ["monsoon", "winter"]},
+  "tagetes":       {"common": ["marigold", "genda"], "value": 2, "bloom": ["winter"]},
+  "hibiscus":      {"common": ["hibiscus", "gudhal"], "value": 2, "bloom": ["summer", "monsoon", "winter"]},
+  "lavandula":     {"common": ["lavender"], "value": 3, "bloom": ["summer"]},
+  "brassica":      {"common": ["mustard", "sarson"], "value": 3, "bloom": ["winter"]},
+  "calendula":     {"common": ["calendula", "pot marigold"], "value": 2, "bloom": ["winter"]},
+  "helianthus":    {"common": ["sunflower", "surajmukhi"], "value": 3, "bloom": ["summer", "monsoon"]},
+  "zinnia":        {"common": ["zinnia"], "value": 3, "bloom": ["summer", "monsoon"]},
+  "cosmos":        {"common": ["cosmos"], "value": 3, "bloom": ["monsoon", "winter"]},
+  "mentha":        {"common": ["mint", "pudina"], "value": 3, "bloom": ["summer", "monsoon"]},
+  "coriandrum":    {"common": ["coriander", "dhania"], "value": 3, "bloom": ["winter"]},
+  "catharanthus":  {"common": ["periwinkle", "sadabahar", "vinca"], "value": 2, "bloom": ["summer", "monsoon", "winter"]},
+  "jasminum":      {"common": ["jasmine", "chameli", "mogra"], "value": 2, "bloom": ["summer", "monsoon"]},
+  "murraya":       {"common": ["curry leaf", "kamini"], "value": 2, "bloom": ["summer", "monsoon"]},
+  "lantana":       {"common": ["lantana"], "value": 3, "bloom": ["summer", "monsoon", "winter"], "note": "Attracts butterflies but is invasive in India. Better to avoid."},
+  "bougainvillea": {"common": ["bougainvillea"], "value": 1, "bloom": ["summer", "winter"]},
+  "rosa":          {"common": ["rose", "gulab"], "value": 1, "bloom": ["winter"], "note": "Double-flowered roses give little nectar."},
+  "petunia":       {"common": ["petunia"], "value": 1, "bloom": ["winter"]}
+}
